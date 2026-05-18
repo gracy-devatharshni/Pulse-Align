@@ -3,6 +3,11 @@
 ## Overview
 PulseAlign is a Next.js 15 app using server-side rendering, Clerk authentication, Prisma with PostgreSQL, and a feature-sliced UI. The app is organized around role-based dashboards, REST-style route handlers, and reusable UI components.
 
+## Repository & Deployment
+
+- GitHub repo: https://github.com/gracy-devatharshni/Pulse-Align
+- Hosted app: https://pulsetracker-bice.vercel.app
+
 ## Core Layers
 
 - **Frontend / UI**: `src/app`, `src/components`, `src/store`
